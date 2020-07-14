@@ -1,4 +1,4 @@
-package com.beautyofdp.yh.factorypattern.simple;
+package com.beautyofdp.yh.factorypattern.simplefactory;
 
 
 import com.beautyofdp.yh.factorypattern.parser.IRuleConfigParser;
